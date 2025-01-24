@@ -1,0 +1,271 @@
+2025-01-24 00:59:49.025 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 00:59:49.031 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 01:02:36.142 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 01:02:36.149 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 01:04:09.426 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 01:04:09.432 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 01:57:45.055 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 01:57:45.060 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 01:57:45.060 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 01:57:45.064 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 01:57:45.064 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 01:57:45.064 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 01:59:14.111 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 01:59:14.118 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 01:59:14.119 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 01:59:14.120 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 01:59:14.120 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 01:59:14.120 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 02:03:27.351 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 02:03:27.358 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 02:03:27.359 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 02:03:27.359 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 02:03:27.360 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 02:03:27.360 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 02:06:37.308 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 02:06:37.314 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 02:06:37.314 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 02:06:37.315 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 02:06:37.315 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 02:06:37.315 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:32:54.081 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:32:54.087 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:34:30.164 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:34:30.217 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:34:30.221 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:34:32.251 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:34:33.206 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:34:33.394 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:34:33.477 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:34:33.568 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:36:13.267 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:36:13.307 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:36:13.312 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:36:15.754 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:36:15.986 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:36:16.271 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:36:16.400 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:36:19.583 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:49:09.022 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:49:09.063 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:49:09.067 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:49:13.018 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:49:13.190 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:49:13.476 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:49:13.576 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:49:16.738 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:51:12.215 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:51:12.261 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:51:12.267 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:51:16.047 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:51:16.216 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:51:16.531 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:51:16.637 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:51:19.807 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:53:00.499 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:53:00.541 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:53:00.548 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:53:01.895 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:53:02.111 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:53:02.405 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:53:02.505 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:53:05.661 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 07:56:01.510 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 07:56:01.550 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 07:56:01.554 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 07:56:03.021 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 07:56:03.110 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 07:56:03.354 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 07:56:03.413 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 07:56:06.498 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 09:03:38.839 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 09:03:38.880 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 09:03:38.884 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 09:03:41.838 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 09:03:41.905 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 09:03:42.102 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 09:03:42.160 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 09:03:45.294 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 09:05:21.202 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 09:05:21.247 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 09:05:21.249 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 09:05:23.201 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 09:05:23.286 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 09:05:23.514 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 09:05:23.574 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 09:05:26.721 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 15:09:02.508 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:09:02.564 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:09:02.564 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:09:03.695 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:09:03.923 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:09:04.187 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:09:04.316 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:09:07.516 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 15:09:12.402 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:09:12.452 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:09:12.459 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:09:14.213 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:09:14.441 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:09:14.742 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:09:14.879 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:15:48.289 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:15:48.370 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:15:48.373 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:15:50.136 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:15:50.360 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:15:50.618 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:15:50.712 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:15:53.919 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 15:16:24.271 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:16:24.339 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:16:24.339 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:16:28.720 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:16:28.922 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:16:29.217 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:16:29.359 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:17:49.834 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:17:49.886 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:17:49.886 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:17:53.990 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:17:54.198 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:17:54.471 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:17:54.565 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:17:57.752 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 15:18:02.816 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:18:02.889 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:18:02.899 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:18:04.253 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:18:04.441 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:18:04.703 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:18:04.834 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:20:10.745 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 15:20:10.813 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 15:20:10.813 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 15:20:12.145 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 15:20:12.353 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 15:20:12.602 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 15:20:12.707 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 15:20:15.884 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:15:12.567 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:15:12.608 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:15:12.608 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:15:14.792 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:15:14.855 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:15:15.050 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:15:15.101 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:15:18.178 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:15:55.579 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:15:55.625 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:15:55.625 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:15:58.689 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:15:58.743 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:15:58.930 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:15:58.985 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:16:02.042 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:16:06.273 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:16:06.308 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:16:06.313 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:16:09.124 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:16:09.319 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:16:09.500 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:16:09.554 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:27:57.803 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:27:57.803 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:27:57.803 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:27:58.766 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:28:01.634 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:28:01.691 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:28:01.850 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:28:02.839 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:28:02.841 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:28:02.841 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:28:03.742 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:28:06.374 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:28:06.424 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:28:06.556 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:29:32.419 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:29:32.419 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:29:32.419 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:29:33.387 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:29:35.880 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:29:35.963 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:29:36.103 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:29:37.180 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:29:37.181 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:29:37.181 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:29:38.137 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:29:40.507 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:29:40.635 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:30:42.350 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:30:42.350 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:30:42.350 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:30:43.373 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:30:46.094 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:30:46.148 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:30:46.301 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:30:47.263 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:30:47.265 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:30:47.265 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:30:48.240 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:30:50.137 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:30:50.224 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:30:50.404 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:34:51.458 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:34:51.458 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:34:51.458 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:34:52.370 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:34:56.563 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:34:56.623 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:34:56.789 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:34:57.812 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:34:57.816 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:34:57.816 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:34:58.754 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:35:01.263 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:35:01.393 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:38:36.424 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:38:36.424 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:38:36.424 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:38:36.424 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:39:15.849 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:39:15.901 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:40:52.752 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:40:52.752 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:40:52.752 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:40:52.752 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:41:00.707 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:41:00.771 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:41:02.100 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:41:02.160 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:41:05.245 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:41:09.207 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:41:09.238 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:47:44.154 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:47:44.154 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:47:44.234 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:47:44.244 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:47:51.869 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:47:51.963 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:47:52.654 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:47:52.712 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:47:55.793 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:47:58.809 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:47:58.825 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:47:58.841 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:47:58.911 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:48:43.982 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
+2025-01-24 23:53:12.972 [main]INFO  Book Cart Test - Explicit wait set to 45 secs
+2025-01-24 23:53:12.977 [main]INFO  Book Cart Test - Page Load Timeout set to 45 secs
+2025-01-24 23:53:13.062 [main]INFO  Book Cart Test - Executing Scenario: successful login
+2025-01-24 23:53:13.064 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:53:16.727 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:53:16.793 [main]INFO  Book Cart Test - Inside userEntersTheUsernameAsGooner
+2025-01-24 23:53:16.982 [main]INFO  Book Cart Test - Inside userEntersThePasswordAsGooner
+2025-01-24 23:53:17.033 [main]INFO  Book Cart Test - Inside userClicksOnLoginButtonAgain
+2025-01-24 23:53:20.105 [main]INFO  Book Cart Test - Inside loginShouldBeSuccess
+2025-01-24 23:53:23.112 [main]INFO  Book Cart Test - Completed execution of Scenario: successful login
+2025-01-24 23:53:23.112 [main]INFO  Book Cart Test - Executing Scenario: Login failure
+2025-01-24 23:53:23.112 [main]INFO  Book Cart Test - Inside userLaunchBookcartApplication
+2025-01-24 23:53:23.192 [main]INFO  Book Cart Test - Inside userClicksOnLoginButton
+2025-01-24 23:54:08.221 [main]INFO  Book Cart Test - Completed execution of Scenario: Login failure
