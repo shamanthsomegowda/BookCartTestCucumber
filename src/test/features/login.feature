@@ -1,9 +1,11 @@
 Feature: Bookcart application validation
 
+  # These steps will be executed before each scenario in the feature.
   Background:
     Given User launch bookcart application
     And User clicks on Login button
 
+# This scenario tests the login failure case with incorrect password
   @Regression @Smoke
   Scenario: successful login
 
@@ -13,7 +15,7 @@ Feature: Bookcart application validation
     Then Login should be success
     And Logout
 
-
+# This scenario tests the login failure case with incorrect password
   @Smoke
   Scenario: Login failure
 
