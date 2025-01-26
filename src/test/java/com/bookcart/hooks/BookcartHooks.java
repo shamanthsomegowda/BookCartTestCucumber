@@ -2,6 +2,8 @@ package com.bookcart.hooks;
 
 import com.bookcart.driver.Driver;
 import io.cucumber.java.*;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 
 import java.time.Duration;
 
@@ -18,14 +20,20 @@ public class BookcartHooks extends Driver {
 
     @Before
     public void beforeScenario(Scenario scenario){
+//        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+//        byte[] screenshot = takesScreenshot.getScreenshotAs(OutputType.BYTES);
+//        scenario.attach(screenshot, "image/png", scenario.getName());
         logger.info("Executing Scenario: "+ scenario.getName());
-        System.out.println("Executing Scenario: "+ scenario.getName());
     }
 
     @After
     public void afterScenario(Scenario scenario){
+        if (scenario.isFailed()) {
+            TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+            byte[] screenshot = takesScreenshot.getScreenshotAs(OutputType.BYTES);
+            scenario.attach(screenshot, "image/png", scenario.getName());
+        }
         logger.info("Completed execution of Scenario: "+ scenario.getName());
-        System.out.println("Completed execution of Scenario: "+ scenario.getName());
     }
 
     @AfterAll
